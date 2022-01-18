@@ -13,7 +13,7 @@ Innovative tech mind with 2+ years of experience working as a full-stack Web Dev
 <div class="highlight highlight-source-js">
    <pre><span class="pl-kos">{</span>
   <span class="pl-c1">Languages</span>: <span class="pl-kos">[</span><span class="pl-s">'JavaScript'</span><span class="pl-kos">,</span> <span class="pl-s">'PHP'</span><span class="pl-kos">,</span> <span class="pl-s">'Python'</span><span class="pl-kos">,</span> <span class="pl-s">'C'</span><span class="pl-kos">,</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">Framework</span>: <span class="pl-kos">[</span><span class="pl-s">'React js'</span><span class="pl-kos">,</span> <span class="pl-s">'Laravel'</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
+  <span class="pl-c1">Framework</span>: <span class="pl-kos">[</span><span class="pl-s">'Laravel'</span></span><span class="pl-kos">,</span><span class="pl-s">'React js' <span class="pl-kos">,</span> <span class="pl-s">'Vue js'</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">Databases</span>: <span class="pl-kos">[</span><span class="pl-s">'MongoDB'</span><span class="pl-kos">,</span> <span class="pl-s">"SQL"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">Tools</span>: <span class="pl-kos">[</span><span class="pl-s">'Vs code'</span><span class="pl-kos">,</span> <span class="pl-s">'Postman'</span><span class="pl-kos">,</span> <span class="pl-kos">,</span>
   <span class="pl-v">Open</span> <span class="pl-c1">Source</span>: <span class="pl-kos">[</span><span class="pl-s">'Git, GitHub'</span><span class="pl-kos">]</span>
