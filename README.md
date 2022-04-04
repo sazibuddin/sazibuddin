@@ -1,6 +1,6 @@
 Innovative tech mind with 2+ years of experience working as a full-stack Web Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field.
 
-- 🔭 I’m currently working on Laravel and React js,Vue js
+- 🔭 I’m currently working on Laravel, React js,Vue js
 - 🌱 I’m currently learning Devops..
 - 👯 I’m looking to collaborate on open source project...
 - 🤔 I’m looking for help with AWS,Jenkins...
