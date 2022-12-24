@@ -1,4 +1,4 @@
-Innovative tech mind with 2+ years of experience working as a full-stack Web Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. Talented leader with unique ideas and a history of successful contributions in the field.
+Innovative tech mind with 2+ years of experience working as a software engineer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. The valuable team member who has experience diagnosing problems and developing solutions. A talented leader with unique ideas and a history of successful contributions in the field.
 
 - 🔭 I’m currently working on Laravel, Vue js, Nuxtjs, React js.
 - 🌱 I’m currently learning Devops..
