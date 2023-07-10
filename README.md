@@ -13,12 +13,12 @@ Innovative tech mind with 2+ years of experience working as a software engineer.
 
 ```js
 {
-  Languages: ['PHP', 'JavaScript', 'C'],
-  Framework: ['Laravel','VueJs', 'ReactJs', 'jQuery'],
-  Databases: ['MySql','MongoDB'],
-  Tools: ['Docker', 'Postman', 'Trello/Clickup'],
-  Cloud: [ 'DigitalOcean','Cpanel'],
-  OpenSource: ['Git', 'GitHub']
+  Languages: ['PHP', 'JavaScript', 'Typescript'],
+  Framework: ['Laravel',' VueJs', 'ReactJs', 'jQuery'],
+  Databases: ['MySql', 'MongoDB'],
+  Tools: ['Docker', 'Postman', 'Trello/Clickup', 'Jira'],
+  Cloud: [ 'DigitalOcean', 'Cpanel'],
+  Version control: ['Git', 'GitHub', 'Bitbucket']
 }
 ```
 <img src="https://github-readme-stats.vercel.app/api/?username=sazibuddin&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7">
